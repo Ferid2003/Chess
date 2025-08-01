@@ -4,20 +4,14 @@ Currently working on a chess game implementation in Lua language using Love2D fr
 
 ## What logic game has
 
-1. Turns
-2. Piece movements
-3. Check (May be some problems)
-4. Usage of FEN(Forsyth-Edwards Notation) (Castling Rights, Possible En Passant Targets and Halfmove Clock are still missing)
-5. Generation of FEN in sepearte txt file
-6. Castling (Not fully implemented)
+The game has all the logic of chess + implementation of usage and generation of FEN(Forsyth-Edwards Notation) value, stored history of moves, ability to go to previous/next moves and flip board.
 
 ## What logic game still missing
 
-1. Implementation of En Passant logic
-2. Mate logic
+1. Implementation of setting board by dragging/dropping pieces
+2. Implementation of scoreboard
 3. Implementation of time
-4. Implemenation of promoting pawns
-5. More user friendly UI showing board coordinates, place to input FEN and get FEN, ability to see previous moves, offer draw and resign as well as changing color positions.
+4. Bot opponent
 
 ## Usage
 
