@@ -18,7 +18,7 @@ The game has all the logic of chess + implementation of usage and generation of 
 For usage Love2D must be installed.
 One can use executable Chess.love file or drag main.lua file into the Love's shortcut
 
-Or alternatively visit https://lustrous-cajeta-768357.netlify.app/ where game is hosted using netlify and love.js.
+Or alternatively visit https://lustrous-cajeta-768357.netlify.app/ where game is hosted using netlify and love.js. Note that FEN generation and pasting are not working in website.
 
 ## Screenshot
 
