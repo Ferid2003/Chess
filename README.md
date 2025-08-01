@@ -1,6 +1,6 @@
 # Chess in Lua
 
-Currently working on a chess game implementation in Lua language using Love2D framework. Have no experience in Lua and Love2D and new to game development so logic and code is probably is bad and not optimized. But its still work. Currently trying to implement full game logic and remove any bugs that current implementation might have.
+Simple Chess game in the lua language using Love2d framework.
 
 ## What logic game has
 
@@ -16,5 +16,15 @@ The game has all the logic of chess + implementation of usage and generation of 
 ## Usage
 
 For usage Love2D must be installed.
-After Installation just dragging the main.lua file into the love2d extenstion starts the game.
-Generated FEN value also can be obtained from txt file that is generated in the same directory as the main.lua file.
+One can use executable Chess.love file or drag main.lua file into the Love's shortcut
+
+Or alternatively visit https://lustrous-cajeta-768357.netlify.app/ where game is hosted using netlify and love.js.
+
+## Screenshot
+
+<img src="sprites/Screenshot_343.png" alt="Chess" width="700" height="500">
+
+## Acknowledgments
+
+* [Love2D](https://www.love2d.org/)
+* [Love.js](https://github.com/Davidobot/love.js)
